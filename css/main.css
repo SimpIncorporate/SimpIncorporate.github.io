@@ -26,6 +26,20 @@ div#structure {
 	height: 100%;
 }
 
-.wrapper {
+div#structure .wrapper {
 	width: 1100px;
+}
+
+div#structure .brand {
+	margin-top: 15rem;
+	margin-bottom: 1.5rem;
+	width: 90%;
+	max-width: 380px;
+	display: inline-block;
+}
+
+div#structure .brand .logo {
+	background: url(../assets/logo.png) 50% no-repeat;
+	background-size: contain;
+	padding-bottom: 50%;
 }
