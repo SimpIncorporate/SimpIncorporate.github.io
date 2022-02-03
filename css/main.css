@@ -39,7 +39,7 @@ div#structure .brand {
 }
 
 div#structure .brand .logo {
-	background: url(../assets/Default.png) 50% no-repeat;
+	background: url(../assets/Default.png) 100% no-repeat;
 	background-size: contain;
 	padding-bottom: 50%;
 }
